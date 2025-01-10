@@ -209,7 +209,7 @@ export const projects = [
     description:
       "A To-Do List Project is an app that helps users organize tasks, set priorities, and track progress through features like task creation, due dates, reminders, and status updates. It can be developed for web or mobile platforms with optional collaboration and analytics features.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "https://images.pexels.com/photos/8378751/pexels-photo-8378751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     tags: [
       "Python",
       "HTML",
@@ -241,7 +241,7 @@ export const projects = [
     description:
       "An efficient online library management system that streamlines book cataloging, user access, and borrowing processes. It offers a user-friendly interface with advanced search features and real-time inventory tracking.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://images.pexels.com/photos/23914630/pexels-photo-23914630/free-photo-of-books-on-shelves.jpeg?auto=compress&cs=tinysrgb&w=800",
     tags: [
       "Python",
       "Django",
@@ -261,7 +261,7 @@ export const projects = [
     description:
       "A job seeker has to struggle a lot in searching the job portals of hundreds of companies. So, we have our Online Job Portal Project which is a free portal where people seeking jobs can apply their resumes/CVs for different jobs and can get hired via our platform.",
     image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+      "https://images.pexels.com/photos/4348403/pexels-photo-4348403.jpeg?auto=compress&cs=tinysrgb&w=800",
     tags: ["C#", ".Net Core", "Sql Server", "ORM", "Dependency Injection", "Automapper"],
     category: "web app",
     github: "",
@@ -273,7 +273,7 @@ export const projects = [
     description:
       "A feature-rich Movies & Series app that offers seamless streaming, personalized recommendations, and easy navigation through genres, ratings, and release dates. Users can track, rate, and manage their watchlist effortlessly.",
     image:
-      "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
+      "https://images.pexels.com/photos/28406387/pexels-photo-28406387/free-photo-of-cozy-home-office-setup-with-computer-display.png?auto=compress&cs=tinysrgb&w=800",
     tags: ["React Js", "HTML", "CSS", "JavaScript"],
     category: "Web app",
     github: "",
