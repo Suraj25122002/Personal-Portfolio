@@ -227,8 +227,7 @@ export const projects = [
     title: "Portfolio",
     description:
       "A dynamic portfolio showcasing innovative web design and development, highlighting responsive layouts and user-centric interfaces. Each project emphasizes creativity, functionality, and seamless user experience across various platforms.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+    image:url("src/images/portfolio.jpeg"),
     tags: ["React Js", "Bootstrap", "JavaScipt"],
     category: "web app",
     github: "",
